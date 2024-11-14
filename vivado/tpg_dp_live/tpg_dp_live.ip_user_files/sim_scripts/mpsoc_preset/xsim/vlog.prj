@@ -1,0 +1,27 @@
+verilog xil_defaultlib --include "D:/program/Xilinx2023/Vivado/2023.1/data/xilinx_vip/include" --include "../../../../project_33.gen/sources_1/bd/mpsoc_preset/ipshared/ec67/hdl" --include "../../../../project_33.gen/sources_1/bd/mpsoc_preset/ipshared/f805/hdl" --include "../../../../project_33.gen/sources_1/bd/mpsoc_preset/ipshared/30ef" --include "../../../../project_33.gen/sources_1/bd/mpsoc_preset/ipshared/1b7e/hdl/verilog" --include "../../../../project_33.gen/sources_1/bd/mpsoc_preset/ipshared/122e/hdl/verilog" --include "../../../../project_33.gen/sources_1/bd/mpsoc_preset/ipshared/affe/hdl/verilog" --include "../../../../project_33.gen/sources_1/bd/mpsoc_preset/ipshared/20d0/hdl/verilog" \
+"../../../bd/mpsoc_preset/ip/mpsoc_preset_zynq_ultra_ps_e_0_0/sim/mpsoc_preset_zynq_ultra_ps_e_0_0_vip_wrapper.v" \
+"../../../bd/mpsoc_preset/sim/mpsoc_preset.v" \
+"../../../bd/mpsoc_preset/ip/mpsoc_preset_v_tpg_0_0/sim/mpsoc_preset_v_tpg_0_0.v" \
+"../../../bd/mpsoc_preset/ip/mpsoc_preset_v_axi4s_vid_out_0_0/sim/mpsoc_preset_v_axi4s_vid_out_0_0.v" \
+"../../../bd/mpsoc_preset/ip/mpsoc_preset_clk_wiz_0_0/mpsoc_preset_clk_wiz_0_0_clk_wiz.v" \
+"../../../bd/mpsoc_preset/ip/mpsoc_preset_clk_wiz_0_0/mpsoc_preset_clk_wiz_0_0.v" \
+"../../../bd/mpsoc_preset/ip/mpsoc_preset_xbar_0/sim/mpsoc_preset_xbar_0.v" \
+"../../../bd/mpsoc_preset/ip/mpsoc_preset_auto_ds_0/sim/mpsoc_preset_auto_ds_0.v" \
+"../../../bd/mpsoc_preset/ip/mpsoc_preset_auto_pc_0/sim/mpsoc_preset_auto_pc_0.v" \
+"../../../bd/mpsoc_preset/ip/mpsoc_preset_auto_ds_1/sim/mpsoc_preset_auto_ds_1.v" \
+"../../../bd/mpsoc_preset/ip/mpsoc_preset_auto_pc_1/sim/mpsoc_preset_auto_pc_1.v" \
+"../../../bd/mpsoc_preset/ip/mpsoc_preset_system_ila_0_0/bd_0/ip/ip_0/sim/bd_9390_ila_lib_0.v" \
+"../../../bd/mpsoc_preset/ip/mpsoc_preset_system_ila_0_0/bd_0/ip/ip_1/bd_9390_g_inst_0_gigantic_mux.v" \
+"../../../bd/mpsoc_preset/ip/mpsoc_preset_system_ila_0_0/bd_0/ip/ip_1/sim/bd_9390_g_inst_0.v" \
+"../../../bd/mpsoc_preset/ip/mpsoc_preset_system_ila_0_0/bd_0/sim/bd_9390.v" \
+"../../../bd/mpsoc_preset/ip/mpsoc_preset_system_ila_0_0/sim/mpsoc_preset_system_ila_0_0.v" \
+"../../../bd/mpsoc_preset/ip/mpsoc_preset_system_ila_1_0/bd_0/ip/ip_0/sim/bd_53c1_ila_lib_0.v" \
+"../../../bd/mpsoc_preset/ip/mpsoc_preset_system_ila_1_0/bd_0/sim/bd_53c1.v" \
+"../../../bd/mpsoc_preset/ip/mpsoc_preset_system_ila_1_0/sim/mpsoc_preset_system_ila_1_0.v" \
+"../../../bd/mpsoc_preset/ip/mpsoc_preset_xlconstant_0_0/sim/mpsoc_preset_xlconstant_0_0.v" \
+"../../../bd/mpsoc_preset/ip/mpsoc_preset_xlconstant_0_1/sim/mpsoc_preset_xlconstant_0_1.v" \
+
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort
